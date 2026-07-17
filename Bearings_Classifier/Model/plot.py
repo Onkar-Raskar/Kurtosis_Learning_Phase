@@ -14,6 +14,12 @@ print("Keys in normal Data : " , faulty_data.keys())
 normal_signal = normal_data['X098_DE_time'].flatten()
 faulty_signal = faulty_data['X106_DE_time'].flatten()
 
+print("Normal signal data")
+print(normal_signal)
+print("-"*30)
+print("Faulty signal data")
+print(faulty_signal)
+
 plt.figure(figsize=(14,5))
 
 plt.subplot(1,2,1)

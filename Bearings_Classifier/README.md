@@ -50,8 +50,6 @@ The project uses MATLAB (`.mat`) files containing vibration signals:
 ## Future Work
 
 - Fast Fourier Transform (FFT)
-- Kurtosis analysis
 - Feature extraction
 - CNN-based fault classification
 - Temporal Convolutional Networks (TCN)
-- Autoencoder-based anomaly detection
